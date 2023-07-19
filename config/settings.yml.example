@@ -1,0 +1,7 @@
+databases:
+  adapter: 'sqlite3'
+  default: './store/default.sqlite3'
+  test: './store/test.sqlite3'
+
+tianyan:
+  token: '天眼查的 token'

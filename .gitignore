@@ -1,0 +1,4 @@
+/store/*.sqlite3
+!/store/.keep
+.byebug_history
+config/settings.yml
